@@ -10,7 +10,7 @@ Versent is an Australian-born technology company, focused on architecting, build
 - We constantly learn
 
 
-[We are Versent](assets/images/company.png)
+![We are Versent](../assets/images/company.png)
 
 
 ## Table of Contents 
@@ -30,7 +30,7 @@ No cool cliques, just motivated passionate humans generating ideas and devising 
 
 Versent’s Strategy and Architecture team develops modern and bespoke High-Velocity Engineering roadmaps to give you a realistic and executable path for success. We combine our delivery experience and your business context to build a clear path forward to uplift capability across your people, process and technology. Our services encompass discovery, analysis, and design planning, and can be delivered as workshops or a consulting engagement.
 
-[The Cloud](assets/images/cloud.png)
+![The Cloud](../assets/images/cloud.png)
 
 
 ## Jobs
