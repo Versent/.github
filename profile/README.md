@@ -10,7 +10,7 @@ Versent is an Australian-born technology company, focused on architecting, build
 - We constantly learn
 
 
-![We are Versent](https://github.com/Versent/.github/blob/main/assets/images/company.png)
+<img src="https://github.com/Versent/.github/blob/main/assets/images/company.png" alt="company" width="500"/>
 
 
 ## Table of Contents 
